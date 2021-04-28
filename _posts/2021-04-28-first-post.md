@@ -7,4 +7,4 @@ Yada-yada-yada
 
 Merci !
 
-![Koulikoro](IMG_20190316_170032515.jpg "Koulikoro")
+![Koulikoro](/images/IMG_20190316_170032515.jpg "Koulikoro")
