@@ -1,0 +1,11 @@
+# basic options
+title: The Livingroom
+author: Diego Lassala
+email: your-email@domain.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  diegolassala
+
+# Build settings
+markdown: kramdown
+theme: minima
