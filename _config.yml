@@ -8,4 +8,4 @@ github_username:  diegolassala
 
 # Build settings
 markdown: kramdown
-remote_theme: minima
+remote_theme: jekyll/minima
