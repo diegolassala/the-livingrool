@@ -7,4 +7,4 @@ Yada-yada-yada
 
 Merci !
 
-![Koulikoro](/images/IMG_20190316_170032515.jpg){ width=50% }
+![Koulikoro](/images/IMG_20190316_170032515.jpg){:height="36px" width="36px"}
