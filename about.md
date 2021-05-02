@@ -20,13 +20,13 @@ It is your opportunity to let us know all the details "about" your project:
 
 ## List of Animals
 
-{% for animal in site.data.animals %}
+{% for animal in site.data.animal %}
 - The {{ animal.name }} is a {{ animal.size }} animal.
 {% endfor %}
 
 ## Large Animals are Better
 
-{% for animal in site.data.animals %}
+{% for animal in site.data.animal %}
 {% if animal.size == "large" %}- <strong style="color: {{ animal.color }};">{{ animal.name }}</strong>
 {% else %}- <small>{{ animal.name }}</small>
 {% endif %}
@@ -34,7 +34,7 @@ It is your opportunity to let us know all the details "about" your project:
 
 ## List of Small Animals
 
-{% assign small_animals = site.data.animals | where: "size", "small" %}
+{% assign small_animals = site.data.animal | where: "size", "small" %}
 {% for animal in small_animals %}
 - {{ animal.name | upcase }}
 {% endfor %}
