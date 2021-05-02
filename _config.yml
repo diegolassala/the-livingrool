@@ -9,3 +9,5 @@ github_username:  diegolassala
 # Build settings
 markdown: kramdown
 theme: minima
+minima:
+  skin: dark
