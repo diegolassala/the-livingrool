@@ -1,10 +1,14 @@
 ---
-layout: page
+layout: dark
 title: About
+example: Example test is this variable.
 ---
 
-This is an about page about this awesome site.
+This page describes the amawing {{ site.title }} by {{ site.author }}
+{{ page.example }}
 Hope you love it!
+
+{%  include.big-cat.html %}
 
 Reasons:
 - its great.
