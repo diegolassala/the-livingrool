@@ -4,6 +4,8 @@ title: About
 example: This is an example value.
 ---
 
+\\( a^2 = b^2 \\)
+
 This page describes the amazing {{ site.title }} by {{ site.author.name }}.
 {{ page.example }}
 
